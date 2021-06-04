@@ -1,0 +1,12 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.c{
+    float: left;
+}
+
+.d{
+    float: right;
+}
